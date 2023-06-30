@@ -1,4 +1,4 @@
-Restaurant Homepage
+# Restaurant Homepage
 
 This project is a simple restaurant homepage built using JavaScript for dynamic rendering of the entire website. It utilizes DOM manipulation techniques to create and modify HTML elements.
 Installation and Setup
